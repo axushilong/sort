@@ -22,7 +22,7 @@ int bubbleSort(int *array, int arraySize)
 
 	for (i = 1;i < arraySize;i++)
 	{
-		for(m = 0;m <= (arraySize - i);m++)
+		for(m = 0;m < (arraySize - i);m++)
 		{
 			if (array[m] > array[m + 1])
 			{
