@@ -1,4 +1,4 @@
 ### sort
-bubble,select,insert,quick
+bubble,select,insert,quick,merge
 ### search
 binary search
